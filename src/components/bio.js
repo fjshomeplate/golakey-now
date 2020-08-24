@@ -37,16 +37,9 @@ const Bio = () => {
 
   const { author, social } = data.site.siteMetadata
   return (
-    <div
-      style={{
-        display: `flex`,
-        marginBottom: rhythm(2.5),
-      }}
-    >
+    <div>
       <h1>Go Lakey!</h1>
-      <h2>
-      canyou see me? can I see you...sf ghkjdfvhasjkgvcewjc
-      </h2>
+
     </div>
   )
 }
