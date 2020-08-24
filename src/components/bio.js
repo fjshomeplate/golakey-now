@@ -45,7 +45,7 @@ const Bio = () => {
       Some History...
       </h3>
       <p>
-      The Lakeland Terrier, also Known as the Patterton Terrier, was bred to hunt foxes and otters in the Lake District. The look somewhat like <a href="http://wikipedia.com/welsh-terrier">Welsh</a> or the <a href='http://wikipedia.com/airedale'>Airedale Terrier</a>.
+      The Lakeland Terrier, also Known as the Patterton Terrier, was bred to hunt foxes and otters in the Lake District. The look somewhat like <a href="http://wikipedia.com/wiki/Welsh-terrier">Welsh</a> or the <a href='http://wikipedia.com/wiki/Airedale-terrier'>Airedale Terrier</a>.
       </p>
       <h3>
       Coat
