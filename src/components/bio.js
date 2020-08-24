@@ -43,7 +43,10 @@ const Bio = () => {
         marginBottom: rhythm(2.5),
       }}
     >
-      <h1>Hello World</h1>
+      <h1>Go Lakey!</h1>
+      <h2>
+      canyou see me? can I see you...sf ghkjdfvhasjkgvcewjc
+      </h2>
     </div>
   )
 }
